@@ -1,0 +1,7 @@
+.venv
+.west
+build
+zephyr
+zmk
+modules
+out
